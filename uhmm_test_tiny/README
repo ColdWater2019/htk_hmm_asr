@@ -1,0 +1,3 @@
+./testvit test.wav hmm_rui
+test.wav: 8k 测试数据
+hmm_rui :匹配模板
