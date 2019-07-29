@@ -1,0 +1,7 @@
+瑞 瑞
+芯 芯
+微 微
+rui rui
+xin xin
+START_SIL  sil  
+END_SIL  sil  

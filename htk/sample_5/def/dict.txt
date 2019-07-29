@@ -1,0 +1,6 @@
+lx lx
+dd dd
+rx rx
+sil sil
+START_SIL  sil  
+END_SIL  sil  

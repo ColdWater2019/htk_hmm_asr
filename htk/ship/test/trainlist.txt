@@ -1,0 +1,3 @@
+ship/mfcc/hello_1.mfcc
+ship/mfcc/hello_2.mfcc
+ship/mfcc/hello_3.mfcc

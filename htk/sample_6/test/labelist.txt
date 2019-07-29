@@ -1,0 +1,5 @@
+sample/lab/rui_0.lab
+sample/lab/rui_1.lab
+sample/lab/rui_2.lab
+sample/lab/xin_0.lab
+sample/lab/xin_1.lab

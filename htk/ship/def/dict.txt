@@ -1,0 +1,8 @@
+HELLO [hello] hello
+WORLD [world] world
+PORT [port] port
+STARBOARD [starboard] starboard
+STANDBY [standby] standby
+STEER [steer] steer
+START_SIL [sil] sil
+END_SIL [sil] sil

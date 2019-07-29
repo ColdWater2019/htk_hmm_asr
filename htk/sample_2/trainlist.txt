@@ -1,0 +1,12 @@
+sample_2/mfcc/瑞_0.mfcc
+sample_2/mfcc/瑞_1.mfcc
+sample_2/mfcc/瑞_2.mfcc
+sample_2/mfcc/瑞_3.mfcc
+sample_2/mfcc/芯_0.mfcc
+sample_2/mfcc/芯_1.mfcc
+sample_2/mfcc/芯_2.mfcc
+sample_2/mfcc/芯_3.mfcc
+sample_2/mfcc/微_0.mfcc
+sample_2/mfcc/微_1.mfcc
+sample_2/mfcc/微_2.mfcc
+sample_2/mfcc/微_3.mfcc

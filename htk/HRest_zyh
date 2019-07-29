@@ -1,0 +1,3 @@
+HRest -A -D -T 1 -S sample/trainlist.txt -M sample/hmms/hmm1 -H sample/hmms/hmm0/hmm_芯  -l 芯  -L sample/lab/ 芯 
+HRest -A -D -T 1 -S sample/trainlist.txt -M sample/hmms/hmm2 -H sample/hmms/hmm1/hmm_芯  -l 芯  -L sample/lab/ 芯 
+HRest -A -D -T 1 -S sample/trainlist.txt -M sample/hmms/hmm3 -H sample/hmms/hmm2/hmm_芯  -l 芯  -L sample/lab/ 芯 

@@ -1,0 +1,25 @@
+VERSION=1.0
+N=9    L=14   
+I=0    W=END_SIL             
+I=1    W=!NULL               
+I=2    W=微        
+I=3    W=芯     
+I=4    W=瑞        
+I=5    W=START_SIL           
+I=6    W=!NULL               
+I=7    W=!NULL               
+I=8    W=!NULL               
+J=0     S=1    E=0    
+J=1     S=6    E=0    
+J=2     S=0    E=1    
+J=3     S=2    E=1    
+J=4     S=3    E=1    
+J=5     S=4    E=1    
+J=6     S=6    E=2    
+J=7     S=6    E=3    
+J=8     S=6    E=4    
+J=9     S=6    E=5    
+J=10    S=5    E=6    
+J=11    S=8    E=6    
+J=12    S=1    E=7    
+J=13    S=6    E=7    

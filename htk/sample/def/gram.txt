@@ -1,0 +1,2 @@
+$WORD=瑞 | 芯 | 微 | rui | xin;
+({START_SIL}[$WORD]{END_SIL})

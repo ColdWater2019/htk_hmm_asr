@@ -1,0 +1,34 @@
+VERSION=1.0
+N=12   L=20   
+I=0    W=END_SIL             
+I=1    W=!NULL               
+I=2    W=STEER               
+I=3    W=STANDBY             
+I=4    W=STARBOARD           
+I=5    W=PORT                
+I=6    W=WORLD               
+I=7    W=HELLO               
+I=8    W=START_SIL           
+I=9    W=!NULL               
+I=10   W=!NULL               
+I=11   W=!NULL               
+J=0     S=1    E=0    
+J=1     S=9    E=0    
+J=2     S=0    E=1    
+J=3     S=2    E=1    
+J=4     S=3    E=1    
+J=5     S=4    E=1    
+J=6     S=5    E=1    
+J=7     S=6    E=1    
+J=8     S=7    E=1    
+J=9     S=9    E=2    
+J=10    S=9    E=3    
+J=11    S=9    E=4    
+J=12    S=9    E=5    
+J=13    S=9    E=6    
+J=14    S=9    E=7    
+J=15    S=9    E=8    
+J=16    S=8    E=9    
+J=17    S=11   E=9    
+J=18    S=1    E=10   
+J=19    S=9    E=10   

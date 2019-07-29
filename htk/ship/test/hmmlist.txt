@@ -1,0 +1,7 @@
+hello
+world
+port
+starboard
+standby
+steer
+sil

@@ -1,0 +1,2 @@
+$WORD=lx | dd | rx | sil;
+({START_SIL}{$WORD}{END_SIL})
